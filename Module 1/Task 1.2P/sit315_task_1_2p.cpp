@@ -1,7 +1,3 @@
-//Github repo: https://github.com/CynthiaChee/SIT315.git
-//Video Demonstration: https://video.deakin.edu.au/media/t/1_rsnnw6pq
-//Alternative Link: https://drive.google.com/file/d/11GKU4f5gF7nUBciZyu-L0hrAA3LWOWhk/view?usp=share_link
-
 //initializing pin values and initial state
 int led = 4;                 //led pin
 int sensor = 2;              //motion sensor pin
