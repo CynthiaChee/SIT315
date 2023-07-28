@@ -1,7 +1,3 @@
-//Github repo: https://github.com/CynthiaChee/SIT315.git
-//Video Demonstration: https://video.deakin.edu.au/media/t/1_sget8596
-//Alternative Link: https://drive.google.com/file/d/1C8k6UZ8KeoHWQPhTBEWUdADHhyl7Rg94/view?usp=share_link
-
 int pir = 2;
 int button = 5;
 int led = 4;
